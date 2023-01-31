@@ -9,7 +9,7 @@ It is a project about breast cancer and testing type to diagnose that disease in
 
 [Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
-**Links to find me
+**Links to find me**
 * [Article about that project](https://medium.com/@rafaelnduarte)
 * [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
 * [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
